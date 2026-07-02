@@ -1,8 +1,18 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋How is it going?></h1>
 
 ###
 
-<p align="left">Hi, I'm Igor Thairony 👋<br><br>I'm currently a Stage 3 student at Griffith College Dublin, pursuing a degree in Computing Science, with experience in Java, Python, PHP, React.js, and Node.js. I’m passionate about building efficient, scalable solutions that deliver real value to users and businesses.<br><br>🚀 What you’ll find here:  <br>- Back-end projects focused on performance and scalability  <br>- Front-end applications with modern, responsive interfaces  <br>- Scripts and tools for automation and process improvement  <br>- Practical examples using MySQL and Oracle PLSQL databases</p>
+<p align="left">Hi, I'm Igor Thairony 👋<br><br> I'm a Stage 4 Computing Science student at Griffith College Dublin, with hands-on experience in Java, Python, C++, React.js, Node.js, MySQL, and the MERN stack. I enjoy building efficient and scalable solutions that solve real-world problems and create value for both users and businesses.<br><br>
+
+This year, I’ve been working on projects ranging from full-stack web applications to embedded and IoT systems, including a real estate platform with authentication and search features, and <strong>Kitchen Guardian</strong>, a Raspberry Pi-based kitchen safety monitoring system using sensors, alerts, and automation.<br>
+
+<br>🚀 What you’ll find here:  
+<br>- Full-stack applications built with React, Node.js, and MySQL  
+<br>- Back-end projects focused on performance, scalability, and clean architecture  
+<br>- Embedded and IoT projects involving Raspberry Pi, sensors, and automation  
+<br>- Practical examples using MySQL
+
+</p>
 
 ###
 
