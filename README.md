@@ -2,9 +2,8 @@
 
 ###
 
-<p align="left">Hi, I'm Igor Thairony 👋<br><br> I'm a Stage 4 Computing Science student at Griffith College Dublin, with hands-on experience in Java, Python, C++, React.js, Node.js, MySQL, and the MERN stack. I enjoy building efficient and scalable solutions that solve real-world problems and create value for both users and businesses.<br><br>
-
-This year, I’ve been working on projects ranging from full-stack web applications to embedded and IoT systems, including a real estate platform with authentication and search features, and <strong>Kitchen Guardian</strong>, a Raspberry Pi-based kitchen safety monitoring system using sensors, alerts, and automation.<br>
+<p align="left">Hi, I'm Igor Thairony 👋<br><br> I'm a Stage 4 Computing Science student at Griffith College Dublin, with hands-on experience in Java, Python, C++, React.js, Node.js, MySQL, and the MERN stack. I enjoy building efficient and scalable solutions that solve real-world problems and create value for both users and businesses.<br>
+I’ve been working on projects ranging from full-stack web applications to embedded and IoT systems, including <a href="https://github.com/Ithairony/motiProperties"><strong>Moti Properties</strong></a>, a real estate platform with authentication and search features, and <a href="https://github.com/Ithairony/kitchenGuardian"><strong>Kitchen Guardian</strong></a>, a Raspberry Pi-based kitchen safety monitoring system using sensors, alerts, and automation.<br>
 
 <br>🚀 What you’ll find here:  
 <br>- Full-stack applications built with React, Node.js, and MySQL  
@@ -84,27 +83,5 @@ This year, I’ve been working on projects ranging from full-stack web applicati
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ithairony/ithairony/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ithairony/ithairony/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ithairony&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ithairony&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
 
 ###
